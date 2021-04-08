@@ -1,2 +1,3 @@
 # best-repo-ever
-# Conflict branch 1
+@ I am creating a conflic 2
+
