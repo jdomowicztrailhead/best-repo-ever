@@ -1,2 +1,2 @@
 # best-repo-ever
-# this is my first commit
+# Conflict branch 1
